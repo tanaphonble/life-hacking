@@ -1,0 +1,11 @@
+install command adb-wifi
+./install-adb-wifi.sh
+
+start adb over wifi 
+adb-wifi start
+
+stop adb over wifi
+adb-wifi stop
+
+restart adb
+adb-wifi restart
